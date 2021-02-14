@@ -1,0 +1,11 @@
+org\brouse\buscaminas\game\Board.class
+org\brouse\buscaminas\game\Cell.class
+org\brouse\buscaminas\Gui.class
+module-info.class
+org\brouse\buscaminas\App.class
+org\brouse\buscaminas\controlers\TableroBuscaminasController.class
+org\brouse\buscaminas\game\GameManager.class
+org\brouse\buscaminas\game\Game.class
+org\brouse\buscaminas\game\Player.class
+org\brouse\buscaminas\SystemInfo.class
+org\brouse\buscaminas\Settings.class
